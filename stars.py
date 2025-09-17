@@ -1,6 +1,6 @@
 def main():
-    stars(8)
-    #alt_stars(8)
+    #stars(1)
+    alt_stars(3)
 
 
 def stars(number):
